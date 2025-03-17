@@ -27,8 +27,7 @@ This is a simple To-Do List application built using **HTML, CSS, and JavaScript*
    ```
    or simply double-click the `index.html` file.
 
-## Expected Output
-![To-Do List Output](https://via.placeholder.com/600x300.png?text=To-Do+List+App+Screenshot)
+
 
 ## Technologies Used
 - **HTML** for structure
