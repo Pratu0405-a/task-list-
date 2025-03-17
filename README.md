@@ -18,7 +18,7 @@ This is a simple To-Do List application built using **HTML, CSS, and JavaScript*
 ## Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   https://github.com/Pratu0405-a/task-list-.git
    ```
 
 2. Open `index.html` in a browser:
